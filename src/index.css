@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Lora:ital,wght@0,400..700;1,400..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+
+@import 'tailwindcss';
+
+.font-head{
+  font-family: "Bagel Fat One" , sans-serif;
+  font-weight: 400;
+}
+
+.font-body{
+  font-family: "Nunito" , sans-serif;
+  font-weight: 400;
+}
+
+.font-sub{
+  font-family: "Lora" , sans-serif;
+  font-weight: 400;
+}
+
+.font-sub-strong{
+  font-family: "Lora" , sans-serif;
+  font-weight: 500;
+}
+
+
+.font-body-strong{
+  font-family: "Nunito" , sans-serif;
+  font-weight: 600;
+}
